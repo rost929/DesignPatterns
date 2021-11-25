@@ -1,26 +1,8 @@
-# BeyondNet.Template.NodeTsStarter
-A basic template to start nodejs projects with Typescript, Huski, Eslint, Prettier, etc.
+# Challenge SOLID, OOP, TypeScript
+The goal of this challenge is to provide the team feedback to improve their skills as programmers. Therefore, the focus of this exercise is to reinforce  the following concepts:
 
-# Steps to create a new common library with NPM
-
-1. npm init -y
-2. tsc --init
-3. npm i typescript del-cli --save-dev
-
-# Git commands
-
-- git status
-- git add .
-- git commit -m <description>
-- npm version patch
-- npm run build
-- npm publish --access=public
-
-Sometimes we need to use:
-
-- npm login
-- pm publish --access public ?? npm login
-
-# Key dependencies
-
-- del-cli: clearing the build directory before build.
+- SOLID.
+- Principles: Yagni, Dry, etc.
+- Design Patterns.
+- OOP
+- TypeScript, always thinking that behave we have JavaScript finally, then we should be careful always at the coding time.
