@@ -5,7 +5,7 @@ The goal of this challenge is to provide the team feedback to improve their skil
 - Principles: Yagni, Dry, etc.
 - Design Patterns.
 - OOP
-- TypeScript, always thinking that finally we have JavaScript finally, then we should be careful always at the coding time.
+- TypeScript, always thinking that finally we have JavaScript, then we should be careful always at the coding time.
 
 # Tasks:
 
