@@ -1,4 +1,4 @@
 export interface PaymentPlan {
-    calculatePrice(): number;
-    calculateInstallment(): number;
+  calculatePrice(): number;
+  calculateInstallment(): number;
 }

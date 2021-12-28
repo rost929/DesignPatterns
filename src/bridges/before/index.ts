@@ -8,7 +8,6 @@
 class Abstraction {
   protected implementation: Implementation;
 
-
   constructor(implementation: Implementation) {
     this.implementation = implementation;
   }
