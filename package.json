@@ -14,7 +14,8 @@
     "prepare": "husky install",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage",
+    "bridge-pattern": "nodemon --config nodemon.json src/bridges/after/index.ts"
   },
   "keywords": [],
   "author": "",
